@@ -12,6 +12,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@remotion/cli": "^4.0.0",
+    "@remotion/lambda": "^4.0.327",
     "@remotion/zod-types": "^4.0.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
